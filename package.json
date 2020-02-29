@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "polished": "^3.4.4",
+    "react-switch": "^5.0.1",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.0.0"
+  }
+}
